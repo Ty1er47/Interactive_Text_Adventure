@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1af1d9140cf6d43abe0a8f611d61c7, type: 3}
+  m_Name: BackdoorRun
+  m_EditorClassIdentifier: 
+  storyText: "You decided to make a run for it, while making a run for it you see
+    one of the kidnappers chassing you, you dig thru your backapack and pull a knife
+    do you \n\n1)fight\n2)contunie to run"
+  nextStates: []

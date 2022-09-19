@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f1af1d9140cf6d43abe0a8f611d61c7, type: 3}
   m_Name: Introduction
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "Its been three days since youve been kidnapped and youve been planning
+    your escape.You've already freed your self from your restraints and pick up your
+    backpack, you wait until midnight to get out of the room youre in.Once you got
+    out your room youre confronted with a decision\n\n1)Go out the front door \n2)Go
+    out the back door\n"
+  nextStates:
+  - {fileID: 11400000, guid: e88b7b0b217adea40a3c03ee411fd306, type: 2}
+  - {fileID: 11400000, guid: 1399cf29636fdec4faecd772897a8ba9, type: 2}

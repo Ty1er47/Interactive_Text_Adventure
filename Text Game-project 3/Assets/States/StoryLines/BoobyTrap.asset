@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1af1d9140cf6d43abe0a8f611d61c7, type: 3}
+  m_Name: BoobyTrap
+  m_EditorClassIdentifier: 
+  storyText: 'You decied to booby trap the house you planted wires on the entrances
+    on both sides.Planted knives wherwe you expected them to fall.After a couple
+    hours one of them came back alone looking drowsy he didnt see the trap fell onto
+    the floor where he was impaled.When he died you looked thru his pockets and found
+    his phone.
+
+
+    1)Use maps to find your way
+
+    2)try to kill the last one'
+  nextStates:
+  - {fileID: 11400000, guid: d69327042d8d88c44837b5262376e1a4, type: 2}
