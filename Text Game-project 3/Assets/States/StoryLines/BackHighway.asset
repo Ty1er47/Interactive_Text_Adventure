@@ -10,15 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3f1af1d9140cf6d43abe0a8f611d61c7, type: 3}
-  m_Name: FrontDoor
+  m_Name: BackHighway
   m_EditorClassIdentifier: 
-  storyText: 'You went out the front and set off a alarm!!
-
-
-    1) HIde and hope
-    they dont find you
-
-    2)Run for the woods'
-  nextStates:
-  - {fileID: 11400000, guid: fd06a94a0061bf94991f4b1670e22bf8, type: 2}
-  - {fileID: 11400000, guid: 2e9174edaf5bf7b4f956cda737282fc3, type: 2}
+  storyText: You decided to keep on running and the kidnapper heard you so he started
+    chasing you and you kept on running until you reached the highway and thats where
+    he caught up to you but other people saw and jumped him.they called the police
+    and the police took you back to the station safely
+  nextStates: []

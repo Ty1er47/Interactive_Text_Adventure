@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3f1af1d9140cf6d43abe0a8f611d61c7, type: 3}
-  m_Name: BackdoorRun
+  m_Name: frontRunWood
   m_EditorClassIdentifier: 
-  storyText: "You decided to make a run for it, while making a run for it you see
-    one of the kidnappers chassing you, you dig thru your backapack and pull a knife
-    do you \n\n1)fight\n2)contunie to run"
+  storyText: "You ran into the woods and didnt stop until your legs gave out so you
+    decided to rest.When youn were resting you fell asleep for a couple hours, you
+    woke up to the sound of rustiling and it was one of the kidnappers do you \n\n1)run\n2)fight"
   nextStates:
-  - {fileID: 11400000, guid: 7473024cb13153442944989b102f40b4, type: 2}
+  - {fileID: 11400000, guid: bd5b98df16e030b4e912e7ab27f4d531, type: 2}
   - {fileID: 11400000, guid: 46d895ab11c130b4aa3a7e79ab6bafbc, type: 2}
